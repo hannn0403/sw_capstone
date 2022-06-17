@@ -8,6 +8,7 @@ Nibabel이라는 Medical Image Processing package를 통해서 수집한 데이�
 - Intensity Distribution 확인 및 [-1, 1]의 범위로 Normalization 진행 
 - Processed Image 에 대한 시각화
 
+---
 
 **TABS_Labeling.ipynb**
 실질적으로 수집한 IXI Data set을 Nibabel을 사용하여 Load하고, FreeSurfer 전처리를 통해서 얻은 `ribbon.mgz` file을 이용하여 Brain Mask를 제작 
